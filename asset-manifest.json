@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tache-11-react-Todo-list-avec-context-API/static/css/main.c5ee2cc7.css",
+    "main.css": "/Tache-11-react-Todo-list-avec-context-API/static/css/main.4e40aa7f.css",
     "main.js": "/Tache-11-react-Todo-list-avec-context-API/static/js/main.f3e4b644.js",
     "static/js/453.6a9ff893.chunk.js": "/Tache-11-react-Todo-list-avec-context-API/static/js/453.6a9ff893.chunk.js",
     "index.html": "/Tache-11-react-Todo-list-avec-context-API/index.html",
-    "main.c5ee2cc7.css.map": "/Tache-11-react-Todo-list-avec-context-API/static/css/main.c5ee2cc7.css.map",
+    "main.4e40aa7f.css.map": "/Tache-11-react-Todo-list-avec-context-API/static/css/main.4e40aa7f.css.map",
     "main.f3e4b644.js.map": "/Tache-11-react-Todo-list-avec-context-API/static/js/main.f3e4b644.js.map",
     "453.6a9ff893.chunk.js.map": "/Tache-11-react-Todo-list-avec-context-API/static/js/453.6a9ff893.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5ee2cc7.css",
+    "static/css/main.4e40aa7f.css",
     "static/js/main.f3e4b644.js"
   ]
 }
